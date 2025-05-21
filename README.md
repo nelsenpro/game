@@ -1,7 +1,7 @@
 
 # Games di Telegram yang Menghasilkan Uang
-#### [Lihat daftar lengkapnya dihalaman 1...](https://nelsenpro.github.io/game.io/)
-#### [Lihat daftar lengkapnya dihalaman 2...](https://nelsenpro.github.io/game.io/index2.html)
+#### [Lihat daftar lengkapnya dihalaman 1...](https://nelsenpro.github.io/game/)
+#### [Lihat daftar lengkapnya dihalaman 2...](https://nelsenpro.github.io/game/index2.html)
 
 ###### Kumpulkan koin, selesaikan tugas, dan dapatkan airdrop. Konversikan koin ke mata uang kripto atau USDT, lalu tukar ke IDR.
 
@@ -158,5 +158,5 @@
 ## 51. Simple Tap Coin
 [Mainkan](https://t.me/Simple_Tap_Bot/app?startapp=1719898023718)
 
-##### [Lihat daftar lengkapnya dihalaman 1...](https://nelsenpro.github.io/game.io/)
-##### [Lihat daftar lengkapnya dihalaman 2...](https://nelsenpro.github.io/game.io/index2.html)
+##### [Lihat daftar lengkapnya dihalaman 1...](https://nelsenpro.github.io/game/)
+##### [Lihat daftar lengkapnya dihalaman 2...](https://nelsenpro.github.io/game/index2.html)
