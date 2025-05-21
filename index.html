@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>game Links</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(135deg, #dfe9f3 0%, #ffffff 100%);
+      padding: 50px 20px;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+    }
+
+    h1 a {
+      font-size: 28px;
+      color: #1e3a8a;
+      text-decoration: none;
+      background: linear-gradient(90deg, #1e3a8a, #4f46e5);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    h1 {
+      margin-bottom: 40px;
+    }
+
+    .link-container {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      width: 100%;
+      max-width: 320px;
+    }
+
+    .link-card {
+      background: rgba(255, 255, 255, 0.8);
+      backdrop-filter: blur(10px);
+      border-radius: 15px;
+      padding: 16px 32px;
+      text-decoration: none;
+      color: #1f2937;
+      font-size: 18px;
+      font-weight: 600;
+      box-shadow: 0 10px 20px rgba(0,0,0,0.08);
+      transition: all 0.3s ease;
+      border: 2px solid transparent;
+    }
+
+    .link-card:hover {
+      transform: translateY(-5px) scale(1.03);
+      background: #eef4ff;
+      border-color: #3b82f6;
+      color: #1d4ed8;
+    }
+
+    @media (max-width: 480px) {
+      h1 a {
+        font-size: 22px;
+      }
+      .link-card {
+        font-size: 16px;
+        padding: 14px 24px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1><a href="https://nelsenpro.github.io/game/" target="_blank" rel="noopener">nelsenpro.github.io</a></h1>
+  <nav class="link-container" aria-label="Navigasi Game">
+    <a href="https://nelsenpro.github.io/game/index1.html" target="_blank" class="link-card" rel="noopener">Index1</a>
+    <a href="https://nelsenpro.github.io/game/index2.html" target="_blank" class="link-card" rel="noopener">Index2</a>
+    <a href="https://nelsenpro.github.io/game/index3.html" target="_blank" class="link-card" rel="noopener">Index3</a>
+    <a href="https://nelsenpro.github.io/game/index4.html" target="_blank" class="link-card" rel="noopener">Index4</a>
+    <a href="https://nelsenpro.github.io/game/jadwal.html" target="_blank" class="link-card" rel="noopener">Jadwal</a>
+    <a href="https://nelsenpro.github.io/game/new.html" target="_blank" class="link-card" rel="noopener">New</a>
+      <a href="https://nelsenpro.github.io/game/README.md" target="_blank" class="link-card" rel="noopener">README.md</a>
+    <a href="https://nelsenpro.github.io/game/sweetalert2@11.js" target="_blank" class="link-card" rel="noopener">sweetalert2@11.js</a>
+  </nav>
+</body>
+</html>
